@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Who%20am%20i%20🤔&animation=fadeIn&type=Transparent&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Who%20am%20i%20🤔&animation=fadeIn&type=Transparent&&color=_hexcode:B897FF&height=100"/>
 </p>
 <ul>
 <li>Damian (you can call me Dami)✨</li>
