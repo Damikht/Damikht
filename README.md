@@ -1,37 +1,29 @@
+<h1 align="center">Hi, I'm Dami 👋</h1>
+<h3 align="center">You can do anything if you put your mind to it ✨</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Who%20am%20i%20🤔&animation=fadeIn&type=Transparent&color=gradient&height=100"/>
-</p>
-<ul>
-<li>Damian (you can call me Dami)✨</li>
-<li>22 Years old 👴</li>
-<li>Aries 🐏♈</li>
-<li>Graphic Design Assistant apprentic 🎨🖌️</li>
-</ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damikht&label=Profile%20views&color=0e75b6&style=flat" alt="damikht" /> </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Next%20goals%20🎯&animation=fadeIn&type=Transparent&color=gradient&height=100"/>
-</p>
 
-<ul>
-<li>Learning to be a Software Developer⚙️</li>
-<li>Exploring the world 🌍</li>
-<li>Petting as many cats as possible😸</li>
-</ul>
+- 🌱 I’m currently learning **Software Development ⚙️**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Lets%20work%20together%20😸&animation=fadeIn&type=Transparent&color=gradient&height=100"/>
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1-zv_eSxmO2bhllTENOgIsadRz2YCsRAq?usp=sharing](https://drive.google.com/drive/folders/1-zv_eSxmO2bhllTENOgIsadRz2YCsRAq?usp=sharing)
+
+- ⚡ Fun fact **i can benchpress 120Kg 🏋️‍♂️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/damian.skth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damian.skth" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/nvtvfffP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nvtvfffP" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.instagram.com/damian.skth?igsh=MWVvOXhjeG9paW16YQ%3D%3D&utm_source=qr">
-  <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<a href="https://discord.gg/nvtvfffP">
-  <img height="30" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damikht&show_icons=true&locale=en" alt="damikht" /></p>
 
-<a href="mailto:Kuhnhardt-Damian@outlook.com">
-  <img height="30" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damikht&" alt="damikht" /></p>
+<div align=center>
+  <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"/>
 </a>
-
+</div>
