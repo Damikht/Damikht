@@ -1,10 +1,9 @@
-
+<div align=center>
 <h1 align="center">Hi, I'm Dami 👋</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damikht&" alt="damikht" /></p>
 <h3 align="center">You can do anything if you put your mind to it ✨</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damikht&label=Profile%20views&color=0e75b6&style=flat" alt="damikht" /> </p>
-
+</div>
 
 - 🌱 I’m currently learning **Software Development ⚙️**
 
