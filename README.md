@@ -1,4 +1,11 @@
+
 <h1 align="center">Hi, I'm Dami 👋</h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damikht&" alt="damikht" /></p>
+<div align=center>
+  <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"/>
+</a>
+</div>
 <h3 align="center">You can do anything if you put your mind to it ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damikht&label=Profile%20views&color=0e75b6&style=flat" alt="damikht" /> </p>
@@ -20,10 +27,3 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damikht&show_icons=true&locale=en" alt="damikht" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damikht&" alt="damikht" /></p>
-<div align=center>
-  <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"> 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"/>
-</a>
-</div>
