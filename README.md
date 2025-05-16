@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi, I'm Dami 👋</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damikht&" alt="damikht" /></p>
 <div align=center>
   <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"> 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRodHVkb3M2bDFvbGdsajZvc3hwaDd2YWVoeTM3N3AxampqcWM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"/>
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damikht&" alt="damikht" /></p>
 </div>
 <h3 align="center">You can do anything if you put your mind to it ✨</h3>
 
