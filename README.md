@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Software Development ⚙️**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1-zv_eSxmO2bhllTENOgIsadRz2YCsRAq?usp=sharing](https://drive.google.com/drive/folders/1-zv_eSxmO2bhllTENOgIsadRz2YCsRAq?usp=sharing)
-
 - ⚡ Fun fact **i can benchpress 120Kg 🏋️‍♂️**
 
 <h3 align="left">Connect with me:</h3>
